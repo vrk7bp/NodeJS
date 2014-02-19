@@ -7,6 +7,7 @@ require('./routes')(app);
 
 // Points Express to a folder where you keep static files
 // e.g. css or client side js files
+//Test comment
 app.use(express.static(path.normalize(__dirname) + '/public'))
 
 // Tell express to use its built in error handler
