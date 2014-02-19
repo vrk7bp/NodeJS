@@ -1,5 +1,5 @@
 exports.index = function(req, res) {
-	res.send("Hi Macklin and Haroun!!!");
+	res.send("Hi Macklin and Haroun");
 }
 
 var watchf = function(req, res) {
