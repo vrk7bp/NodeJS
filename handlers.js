@@ -1,5 +1,5 @@
 exports.index = function(req, res) {
-	res.send("Welcome to CS 1501");
+	res.send("Hi Macklin!!!");
 }
 
 var watchf = function(req, res) {
