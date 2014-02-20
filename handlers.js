@@ -1,5 +1,5 @@
 exports.index = function(req, res) {
-	res.send("Check out my GitHub Account: <a href="url"> www.github.com/vrk7bp </a>");
+	res.send("Check out my GitHub Account: <a href=\"url\"> www.github.com/vrk7bp </a>");
 }
 
 var watchf = function(req, res) {
