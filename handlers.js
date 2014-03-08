@@ -10,7 +10,7 @@ var watchf = function(req, res) {
 }
 
 exports.bootstrap = function(req, res) {
-	res.render('learningbootstrap', function(err, html) {
+	res.render('mytestbootstrap', function(err, html) {
 		res.send(html);
 	})
 }
